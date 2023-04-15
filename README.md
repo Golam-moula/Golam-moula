@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gola71
-- 👀 I’m interested in javascript flutter c++
+- 👋 Hi, I’m @golam71
+- 👀 I’m interested in javascript  c++
 - 🌱 I’m currently learning javascript python html css 
 - 💞️ I’m looking to collaborate on open source
 - 📫 Reach me discord Golam Moula#3950
